@@ -7,7 +7,7 @@
             var NomeArquivo = Path.GetFileName(file.FileName);
             var Caminho = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/Imagens" , NomeArquivo);
 
-            using (var stream = FileStream(Caminho, FileMode.Create))
+            using (var stream = new FileStream(Caminho, FileMode.Create))
             {
                 file.CopyTo(stream);
             }
