@@ -333,7 +333,6 @@ C:\Users\3MTEC\Downloads\carrinho-do-vitin\Project2\bin\Debug\net8.0\System.Conf
 C:\Users\3MTEC\Downloads\carrinho-do-vitin\Project2\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
 C:\Users\3MTEC\Downloads\carrinho-do-vitin\Project2\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\3MTEC\Downloads\carrinho-do-vitin\Project2\bin\Debug\net8.0\System.Security.Permissions.dll
-C:\Users\3MTEC\Downloads\carrinho-do-vitin\Project2\bin\Debug\net8.0\System.Text.Json.dll
 C:\Users\3MTEC\Downloads\carrinho-do-vitin\Project2\bin\Debug\net8.0\System.Windows.Extensions.dll
 C:\Users\3MTEC\Downloads\carrinho-do-vitin\Project2\bin\Debug\net8.0\ZstdSharp.dll
 C:\Users\3MTEC\Downloads\carrinho-do-vitin\Project2\bin\Debug\net8.0\af\Humanizer.resources.dll
@@ -504,3 +503,8 @@ C:\Users\3MTEC\Downloads\carrinho-do-vitin\Project2\obj\Debug\net8.0\refint\Proj
 C:\Users\3MTEC\Downloads\carrinho-do-vitin\Project2\obj\Debug\net8.0\Project2.pdb
 C:\Users\3MTEC\Downloads\carrinho-do-vitin\Project2\obj\Debug\net8.0\Project2.genruntimeconfig.cache
 C:\Users\3MTEC\Downloads\carrinho-do-vitin\Project2\obj\Debug\net8.0\ref\Project2.dll
+C:\Users\3MTEC\Downloads\carrinho-do-vitin\Project2\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\3MTEC\Downloads\carrinho-do-vitin\Project2\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\3MTEC\Downloads\carrinho-do-vitin\Project2\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\3MTEC\Downloads\carrinho-do-vitin\Project2\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\3MTEC\Downloads\carrinho-do-vitin\Project2\obj\Debug\net8.0\swae.build.ex.cache
