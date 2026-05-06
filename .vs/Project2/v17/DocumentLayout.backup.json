@@ -3,8 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\3MTEC\\Downloads\\carrinho-do-vitin\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{20C100A2-71C4-4D8F-B1EB-3B704064EA46}|Project2\\Project2.csproj|c:\\users\\3mtec\\downloads\\carrinho-do-vitin\\project2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C100A2-71C4-4D8F-B1EB-3B704064EA46}|Project2\\Project2.csproj|solutionrelative:project2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C100A2-71C4-4D8F-B1EB-3B704064EA46}|Project2\\Project2.csproj|c:\\users\\3mtec\\downloads\\carrinho-do-vitin\\project2\\views\\home\\confemp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20C100A2-71C4-4D8F-B1EB-3B704064EA46}|Project2\\Project2.csproj|solutionrelative:project2\\views\\home\\confemp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C100A2-71C4-4D8F-B1EB-3B704064EA46}|Project2\\Project2.csproj|c:\\users\\3mtec\\downloads\\carrinho-do-vitin\\project2\\views\\home\\carrinho.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20C100A2-71C4-4D8F-B1EB-3B704064EA46}|Project2\\Project2.csproj|solutionrelative:project2\\views\\home\\carrinho.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{20C100A2-71C4-4D8F-B1EB-3B704064EA46}|Project2\\Project2.csproj|c:\\users\\3mtec\\downloads\\carrinho-do-vitin\\project2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{20C100A2-71C4-4D8F-B1EB-3B704064EA46}|Project2\\Project2.csproj|solutionrelative:project2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C100A2-71C4-4D8F-B1EB-3B704064EA46}|Project2\\Project2.csproj|c:\\users\\3mtec\\downloads\\carrinho-do-vitin\\project2\\repository\\livrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C100A2-71C4-4D8F-B1EB-3B704064EA46}|Project2\\Project2.csproj|solutionrelative:project2\\repository\\livrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C100A2-71C4-4D8F-B1EB-3B704064EA46}|Project2\\Project2.csproj|c:\\users\\3mtec\\downloads\\carrinho-do-vitin\\project2\\repository\\iitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C100A2-71C4-4D8F-B1EB-3B704064EA46}|Project2\\Project2.csproj|solutionrelative:project2\\repository\\iitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C100A2-71C4-4D8F-B1EB-3B704064EA46}|Project2\\Project2.csproj|c:\\users\\3mtec\\downloads\\carrinho-do-vitin\\project2\\controllers\\livroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C100A2-71C4-4D8F-B1EB-3B704064EA46}|Project2\\Project2.csproj|solutionrelative:project2\\controllers\\livroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C100A2-71C4-4D8F-B1EB-3B704064EA46}|Project2\\Project2.csproj|c:\\users\\3mtec\\downloads\\carrinho-do-vitin\\project2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20C100A2-71C4-4D8F-B1EB-3B704064EA46}|Project2\\Project2.csproj|solutionrelative:project2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C100A2-71C4-4D8F-B1EB-3B704064EA46}|Project2\\Project2.csproj|c:\\users\\3mtec\\downloads\\carrinho-do-vitin\\project2\\views\\livros\\cadlivro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20C100A2-71C4-4D8F-B1EB-3B704064EA46}|Project2\\Project2.csproj|solutionrelative:project2\\views\\livros\\cadlivro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{20C100A2-71C4-4D8F-B1EB-3B704064EA46}|Project2\\Project2.csproj|c:\\users\\3mtec\\downloads\\carrinho-do-vitin\\project2\\carrinhocompra\\cookiecarrinhocompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,18 +51,6 @@
       "RelativeMoniker": "D:0:0:{20C100A2-71C4-4D8F-B1EB-3B704064EA46}|Project2\\Project2.csproj|solutionrelative:project2\\project2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20C100A2-71C4-4D8F-B1EB-3B704064EA46}|Project2\\Project2.csproj|c:\\users\\3mtec\\downloads\\carrinho-do-vitin\\project2\\repository\\iitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20C100A2-71C4-4D8F-B1EB-3B704064EA46}|Project2\\Project2.csproj|solutionrelative:project2\\repository\\iitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20C100A2-71C4-4D8F-B1EB-3B704064EA46}|Project2\\Project2.csproj|c:\\users\\3mtec\\downloads\\carrinho-do-vitin\\project2\\views\\livros\\cadlivro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{20C100A2-71C4-4D8F-B1EB-3B704064EA46}|Project2\\Project2.csproj|solutionrelative:project2\\views\\livros\\cadlivro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20C100A2-71C4-4D8F-B1EB-3B704064EA46}|Project2\\Project2.csproj|c:\\users\\3mtec\\downloads\\carrinho-do-vitin\\project2\\controllers\\livroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20C100A2-71C4-4D8F-B1EB-3B704064EA46}|Project2\\Project2.csproj|solutionrelative:project2\\controllers\\livroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{20C100A2-71C4-4D8F-B1EB-3B704064EA46}|Project2\\Project2.csproj|c:\\users\\3mtec\\downloads\\carrinho-do-vitin\\project2\\gerenciaarquivos\\gerenciadorarquivos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{20C100A2-71C4-4D8F-B1EB-3B704064EA46}|Project2\\Project2.csproj|solutionrelative:project2\\gerenciaarquivos\\gerenciadorarquivos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -42,21 +62,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\3MTEC\\Downloads\\carrinho-do-vitin\\Project2\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Project2\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\3MTEC\\Downloads\\carrinho-do-vitin\\Project2\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Project2\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAQwB4AAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-06T12:15:35.403Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
@@ -67,46 +74,72 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CookieCarrinhoCompra.cs",
-              "DocumentMoniker": "C:\\Users\\3MTEC\\Downloads\\carrinho-do-vitin\\Project2\\CarrinhoCompra\\CookieCarrinhoCompra.cs",
-              "RelativeDocumentMoniker": "Project2\\CarrinhoCompra\\CookieCarrinhoCompra.cs",
-              "ToolTip": "C:\\Users\\3MTEC\\Downloads\\carrinho-do-vitin\\Project2\\CarrinhoCompra\\CookieCarrinhoCompra.cs",
-              "RelativeToolTip": "Project2\\CarrinhoCompra\\CookieCarrinhoCompra.cs",
-              "ViewState": "AgIAAGIAAAAAAAAAAAAiwHMAAAABAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Downloads\\carrinho-do-vitin\\Project2\\Program.cs",
+              "RelativeDocumentMoniker": "Project2\\Program.cs",
+              "ToolTip": "C:\\Users\\3MTEC\\Downloads\\carrinho-do-vitin\\Project2\\Program.cs",
+              "RelativeToolTip": "Project2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-06T12:01:20.26Z",
+              "WhenOpened": "2026-05-06T14:33:17.278Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Project2",
-              "DocumentMoniker": "C:\\Users\\3MTEC\\Downloads\\carrinho-do-vitin\\Project2\\Project2.csproj",
-              "RelativeDocumentMoniker": "Project2\\Project2.csproj",
-              "ToolTip": "C:\\Users\\3MTEC\\Downloads\\carrinho-do-vitin\\Project2\\Project2.csproj",
-              "RelativeToolTip": "Project2\\Project2.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-05-06T12:01:18.925Z",
+              "DocumentIndex": 1,
+              "Title": "confEmp.cshtml",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Downloads\\carrinho-do-vitin\\Project2\\Views\\Home\\confEmp.cshtml",
+              "RelativeDocumentMoniker": "Project2\\Views\\Home\\confEmp.cshtml",
+              "ToolTip": "C:\\Users\\3MTEC\\Downloads\\carrinho-do-vitin\\Project2\\Views\\Home\\confEmp.cshtml",
+              "RelativeToolTip": "Project2\\Views\\Home\\confEmp.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-06T14:31:33.731Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Cookie.cs",
-              "DocumentMoniker": "C:\\Users\\3MTEC\\Downloads\\carrinho-do-vitin\\Project2\\Cookie\\Cookie.cs",
-              "RelativeDocumentMoniker": "Project2\\Cookie\\Cookie.cs",
-              "ToolTip": "C:\\Users\\3MTEC\\Downloads\\carrinho-do-vitin\\Project2\\Cookie\\Cookie.cs",
-              "RelativeToolTip": "Project2\\Cookie\\Cookie.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-06T12:01:06.756Z",
+              "Title": "Carrinho.cshtml",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Downloads\\carrinho-do-vitin\\Project2\\Views\\Home\\Carrinho.cshtml",
+              "RelativeDocumentMoniker": "Project2\\Views\\Home\\Carrinho.cshtml",
+              "ToolTip": "C:\\Users\\3MTEC\\Downloads\\carrinho-do-vitin\\Project2\\Views\\Home\\Carrinho.cshtml",
+              "RelativeToolTip": "Project2\\Views\\Home\\Carrinho.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-06T14:24:25.517Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "LivroRepository.cs",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Downloads\\carrinho-do-vitin\\Project2\\Repository\\LivroRepository.cs",
+              "RelativeDocumentMoniker": "Project2\\Repository\\LivroRepository.cs",
+              "ToolTip": "C:\\Users\\3MTEC\\Downloads\\carrinho-do-vitin\\Project2\\Repository\\LivroRepository.cs",
+              "RelativeToolTip": "Project2\\Repository\\LivroRepository.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAmwFwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T14:10:58.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Downloads\\carrinho-do-vitin\\Project2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Project2\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\3MTEC\\Downloads\\carrinho-do-vitin\\Project2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Project2\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAAwBwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T12:15:35.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "IItemRepository.cs",
               "DocumentMoniker": "C:\\Users\\3MTEC\\Downloads\\carrinho-do-vitin\\Project2\\Repository\\IItemRepository.cs",
               "RelativeDocumentMoniker": "Project2\\Repository\\IItemRepository.cs",
@@ -119,26 +152,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "cadLivro.cshtml",
-              "DocumentMoniker": "C:\\Users\\3MTEC\\Downloads\\carrinho-do-vitin\\Project2\\Views\\Livros\\cadLivro.cshtml",
-              "RelativeDocumentMoniker": "Project2\\Views\\Livros\\cadLivro.cshtml",
-              "ToolTip": "C:\\Users\\3MTEC\\Downloads\\carrinho-do-vitin\\Project2\\Views\\Livros\\cadLivro.cshtml",
-              "RelativeToolTip": "Project2\\Views\\Livros\\cadLivro.cshtml",
-              "ViewState": "AgIAABsAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-07T12:13:40.436Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 6,
               "Title": "LivrosController.cs",
               "DocumentMoniker": "C:\\Users\\3MTEC\\Downloads\\carrinho-do-vitin\\Project2\\Controllers\\LivrosController.cs",
               "RelativeDocumentMoniker": "Project2\\Controllers\\LivrosController.cs",
               "ToolTip": "C:\\Users\\3MTEC\\Downloads\\carrinho-do-vitin\\Project2\\Controllers\\LivrosController.cs",
               "RelativeToolTip": "Project2\\Controllers\\LivrosController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBQAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA5wBkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-07T12:07:50.327Z",
               "EditorCaption": ""
@@ -146,6 +166,68 @@
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Downloads\\carrinho-do-vitin\\Project2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Project2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\3MTEC\\Downloads\\carrinho-do-vitin\\Project2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Project2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAEEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-06T14:02:35.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Cookie.cs",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Downloads\\carrinho-do-vitin\\Project2\\Cookie\\Cookie.cs",
+              "RelativeDocumentMoniker": "Project2\\Cookie\\Cookie.cs",
+              "ToolTip": "C:\\Users\\3MTEC\\Downloads\\carrinho-do-vitin\\Project2\\Cookie\\Cookie.cs",
+              "RelativeToolTip": "Project2\\Cookie\\Cookie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T12:01:06.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Project2.csproj",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Downloads\\carrinho-do-vitin\\Project2\\Project2.csproj",
+              "RelativeDocumentMoniker": "Project2\\Project2.csproj",
+              "ToolTip": "C:\\Users\\3MTEC\\Downloads\\carrinho-do-vitin\\Project2\\Project2.csproj",
+              "RelativeToolTip": "Project2\\Project2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-06T12:01:18.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "cadLivro.cshtml",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Downloads\\carrinho-do-vitin\\Project2\\Views\\Livros\\cadLivro.cshtml",
+              "RelativeDocumentMoniker": "Project2\\Views\\Livros\\cadLivro.cshtml",
+              "ToolTip": "C:\\Users\\3MTEC\\Downloads\\carrinho-do-vitin\\Project2\\Views\\Livros\\cadLivro.cshtml",
+              "RelativeToolTip": "Project2\\Views\\Livros\\cadLivro.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-07T12:13:40.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CookieCarrinhoCompra.cs",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Downloads\\carrinho-do-vitin\\Project2\\CarrinhoCompra\\CookieCarrinhoCompra.cs",
+              "RelativeDocumentMoniker": "Project2\\CarrinhoCompra\\CookieCarrinhoCompra.cs",
+              "ToolTip": "C:\\Users\\3MTEC\\Downloads\\carrinho-do-vitin\\Project2\\CarrinhoCompra\\CookieCarrinhoCompra.cs",
+              "RelativeToolTip": "Project2\\CarrinhoCompra\\CookieCarrinhoCompra.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAiwHMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T12:01:20.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "GerenciadorArquivos.cs",
               "DocumentMoniker": "C:\\Users\\3MTEC\\Downloads\\carrinho-do-vitin\\Project2\\GerenciaArquivos\\GerenciadorArquivos.cs",
               "RelativeDocumentMoniker": "Project2\\GerenciaArquivos\\GerenciadorArquivos.cs",
@@ -153,8 +235,7 @@
               "RelativeToolTip": "Project2\\GerenciaArquivos\\GerenciadorArquivos.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-07T12:07:50.699Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-07T12:07:50.699Z"
             }
           ]
         }
